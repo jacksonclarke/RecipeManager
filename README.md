@@ -6,7 +6,7 @@ of development. Currently, the program has a very simple UI and only allows for 
 The purpose for developing RecipeManager is to create an online platform to support saving and sharing family recipes with loved ones,
 as well as to help prevent the loss of beloved family meals whose recipes have been lost to spilled coffee and hungry family dogs.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bChtD8-Taw8)
 
 # Development Environment
 
